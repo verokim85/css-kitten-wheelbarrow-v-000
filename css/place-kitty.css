@@ -32,7 +32,7 @@
   top: 260px;
   left: 455px;
 }
-}
+
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 img[alt*="Kitty 5"]/*__write_selector_here__*/ {
